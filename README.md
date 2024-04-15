@@ -25,3 +25,5 @@
   阅读两篇self-explain方法的文章，下一周做一个ppt讲述论文中两个方法。
 
 3.何放
+  阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》
+  邓金海：阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》，并于三周内实现文献方法，跑代码
