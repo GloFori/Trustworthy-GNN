@@ -4,7 +4,7 @@
 #2024-04-07 -- 2024-04-13
 
 1.吉星宇
-  根据关键字，做一个paper list。
+  根据关键字 ( semi-supervised, trust propagation ) ，做一个paper list。
   
 2.李璐
   阅读GNN三篇经典文章。
