@@ -26,6 +26,8 @@
 
 2.李璐
   阅读两篇self-explain方法的文章，下一周做一个ppt讲述论文中两个方法。
+  刘佳乐
+  搞清楚segnn实验部分
 
 3.何放
   阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》。
