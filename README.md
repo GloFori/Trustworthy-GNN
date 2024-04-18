@@ -20,7 +20,9 @@
 #2024-04-14 -- 2024-04-20
 
 1.吉星宇
-
+  GCN GAT GRACE SGCN baseline 实验 ( 5 次取平均 )  
+  multi-view CL 论文阅读 ( 对比传统 SGCL 改进哪些 )  
+  调研如何将 NLP / image 领域中对比学习的理论部分迁移到 graph 领域
 
 2.李璐
   阅读两篇self-explain方法的文章，下一周做一个ppt讲述论文中两个方法。
