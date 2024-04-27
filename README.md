@@ -45,7 +45,7 @@
     - GCN GAT 代码修改; GRACE SGCN 调整输入数据接口; SGCL 完成 ( DDL: 20240429 )
     - SGNNMD 改 bug ( DDL: 20240429 )
   
-2. 李璐
+2. 李璐：尝试写论文的introduction，并阅读文献《All in One: Multi-Task Prompting for Graph Neural Networks》
 
 3. 何放
     阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》、《Tail-GNN-KDD-21》，并做汇报。
