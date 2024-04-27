@@ -58,6 +58,6 @@
 
 1. 吉星宇
 
-2. 李璐
+2. 李璐：修改introduction内容，继续阅读文献《All in One: Multi-Task Prompting for Graph Neural Networks》
 
 3. 何放
