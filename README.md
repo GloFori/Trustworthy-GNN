@@ -76,6 +76,8 @@
 
 1. 吉星宇
 
+    - multi-view CL paper 汇报 ( latex )
+
 2. 李璐
 
 3. 何放
