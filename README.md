@@ -57,20 +57,21 @@
 # 2024-04-28 -- 2024-05-04
 
 1. 吉星宇
+
        - multi-view CL paper 汇报 ( latex )
 
-2. 李璐
+3. 李璐
     修改introduction内容，继续阅读文献《All in One: Multi-Task Prompting for Graph Neural Networks》
 
-3. 何放
+4. 何放
    阅读文献《POLE: Polarized Embedding for Signed Networks》、《Discovering Polarized Communities in Signed Networks》
 
    邓金海：
         两个偏差周六的时候拿出结果：
-        1） 至少从属于一个低度数点的边的预测精度是否偏低
-        2）是否负边的预测精度比正边低，低多少
-    
-        用SGCN模型跑跑四个数据集，然后做个表格
+
+    - 至少从属于一个低度数点的边的预测精度是否偏低
+    - 是否负边的预测精度比正边低，低多少
+    - 用SGCN模型跑跑四个数据集，然后做个表格
 
 ----------------------------------
 
@@ -79,8 +80,10 @@
 1. 吉星宇
     
 2. 李璐
-    上周那篇文章作ppt介绍，然后就是那两篇文章的修改和撰写工作抓紧推进。
+   上周那篇文章作ppt介绍，然后就是那两篇文章的修改和撰写工作抓紧推进。
 
    刘佳乐：把可解释数据集的构建问题想清楚说清楚，要做ppt，要把直觉搞清楚，而不是只知道怎么做
+
 3. 何放
-    确定好问题，是negative edge的预测bias还是low-degree的bias，或者其他
+
+   和邓金海交流，确定好问题，是negative edge的预测bias还是low-degree的bias，或者其他
