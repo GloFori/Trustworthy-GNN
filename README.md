@@ -58,7 +58,7 @@
 
 1. 吉星宇
 
-       - multi-view CL paper 汇报 ( latex )
+    - multi-view CL paper 汇报 ( latex )
 
 3. 李璐
     修改introduction内容，继续阅读文献《All in One: Multi-Task Prompting for Graph Neural Networks》
