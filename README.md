@@ -54,10 +54,28 @@
 
 ----------------------------------
 
-# 2024-04-21 -- 2024-04-27
+# 2024-04-28 -- 2024-05-04
 
 1. 吉星宇
 
 2. 李璐：修改introduction内容，继续阅读文献《All in One: Multi-Task Prompting for Graph Neural Networks》
+
+3. 何放
+    阅读文献《POLE: Polarized Embedding for Signed Networks》、《Discovering Polarized Communities in Signed Networks》
+    邓金海：
+        两个偏差周六的时候拿出结果：
+        1） 至少从属于一个低度数点的边的预测精度是否偏低
+
+        2）是否负边的预测精度比正边低，低多少
+    
+        用SGCN模型跑跑四个数据集，然后做个表格
+
+----------------------------------
+
+# 2024-05-05 -- 2024-05-11
+
+1. 吉星宇
+
+2. 李璐
 
 3. 何放
