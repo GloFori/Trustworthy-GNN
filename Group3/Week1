@@ -1,1 +1,20 @@
+第一周进展
+
+何放：
+阅读完三篇经典GNN论文，并完成4.13的组会报告；
+
+邓金海：
+完成制作bias paper list，内容如下：
+综述：Fairness-Aware Graph Neural Networks: A Survey
+    1.Subgroup Generalization and Fairness of Graph Neural Networks
+    2.EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks
+    3.BA-GNN: On Learning Bias-Aware Graph Neural Network
+    4.Chasing Fairness in Graphs: A GNN Architecture Perspective
+    5.A biased graph neural network sampler with near-optimal regret
+    6.Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training data
+    7.Temporal Debiasing using Adversarial Loss based GNN architecture for Crypto Fraud Detection
+    8.Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure
+    9.Interpreting Unfairness in Graph Neural Networks via Training Node Attribution
+    10.GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation
+    11. CaDRec: Contextualized and Debiased Recommender Model
 
