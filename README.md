@@ -9,8 +9,11 @@
 2. 李璐
   阅读GNN三篇经典文章。
   进阶：跑通论文的代码，会调包即可
+
+  刘佳乐：阅读GNN三篇经典文章。
+  进阶：跑通论文的代码。
   
-3. 何放
+4. 何放
   阅读GNN三篇经典文章。
   进阶：跑通论文的代码。
   
@@ -27,10 +30,12 @@
 
 2. 李璐
   阅读两篇self-explain方法的文章，下一周做一个ppt讲述论文中两个方法。
-  刘佳乐
-  搞清楚segnn实验部分
 
-3. 何放
+     刘佳乐
+
+  - 搞清楚segnn实验部分
+
+4. 何放
   阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》。
   
   邓金海：阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》，并于三周内实现文献方法，跑代码。
@@ -47,7 +52,11 @@
   
 2. 李璐：尝试写论文的introduction，并阅读文献《All in One: Multi-Task Prompting for Graph Neural Networks》
 
-3. 何放
+    刘佳乐：
+
+   - 理解可解释数据集如何构建
+
+4. 何放
     阅读文献《2023 Towards Label Position Bias in Graph Neural Networks》、《Tail-GNN-KDD-21》，并做汇报。
     学习Latex，汇报内容用Latex写。
     要求：汇报文章解决了什么问题，motivation是什么，方法有什么trick。尽量搞懂方法细节，不要太陷入到公式里面，但要搞清楚公式的用途，后面可能有用。
@@ -82,9 +91,12 @@
 2. 李璐
    上周那篇文章作ppt介绍，然后就是那两篇文章的修改和撰写工作抓紧推进。
 
-   刘佳乐：把可解释数据集的构建问题想清楚说清楚，要做ppt，要把直觉搞清楚，而不是只知道怎么做
+   刘佳乐：
 
-3. 何放
+   - 把可解释数据集的构建问题想清楚说清楚，要做ppt，要把直觉搞清楚，而不是只知道怎么做
+   - 阅读《Self-Explainable Graph Neural Networks for Link Prediction》，并作汇报。
+    
+4. 何放
 
    和邓金海交流，确定好问题，是negative edge的预测bias还是low-degree的bias，或者其他
 
