@@ -109,3 +109,7 @@
 2. 李璐：弄懂论文的内容，修改论文图片内容
 
 3. 何放
+
+   《Fairness-Aware Graph Neural Networks: A Survey》、《Fairness-Aware Graph Neural Networks: A Survey》、《FairGAT: Fairness-aware Graph Atention Networks》
+
+
