@@ -121,6 +121,11 @@
 
 2. 李璐
 
+刘佳乐：
+
+- 阅读《How Faithful are Self-Explainable GNNs?》 ，并作ppt汇报。
+
+
 3. 何放
 
     - 审稿《Soft Augmentation for Graph Classification》
